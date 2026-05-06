@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ghalet-w-samatak/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Sync Licensing for Ghalet W Samatak](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Usage Rights for Ghalet W Samatak](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
